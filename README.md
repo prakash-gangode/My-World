@@ -6,7 +6,7 @@
 ⚡ Love Trekking and gaming <br>
 
 ## 🌐 Socials:
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/its_prince_07/) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=GitHub&logoColor=white)](https://github.com/pradip-surse)
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/its_princeee_07/) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=GitHub&logoColor=white)](https://github.com/prakash-gangode)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%233776AB.svg)](https://prakash-gangode.github.io/Portfolio/)<br>
 📧 Email: prakashgangode2002@gmail.com <br>
