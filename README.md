@@ -10,7 +10,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=GitHub&logoColor=white)](https://github.com/pradip-surse)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%233776AB.svg)](https://prakash-gangode.github.io/Portfolio/)<br>
 📧 Email: prakashgangode2002@gmail.com <br>
-
-
-## 👨‍💻 Coding Platforms:
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/prajval31/)
